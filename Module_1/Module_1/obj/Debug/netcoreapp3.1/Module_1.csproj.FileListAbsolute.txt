@@ -1,0 +1,11 @@
+E:\LapTrinhTrucQuan\BaiTap\Module_1\Module_1\obj\Debug\netcoreapp3.1\Module_1.csprojAssemblyReference.cache
+E:\LapTrinhTrucQuan\BaiTap\Module_1\Module_1\obj\Debug\netcoreapp3.1\Module_1.AssemblyInfoInputs.cache
+E:\LapTrinhTrucQuan\BaiTap\Module_1\Module_1\obj\Debug\netcoreapp3.1\Module_1.AssemblyInfo.cs
+E:\LapTrinhTrucQuan\BaiTap\Module_1\Module_1\bin\Debug\netcoreapp3.1\Module_1.exe
+E:\LapTrinhTrucQuan\BaiTap\Module_1\Module_1\bin\Debug\netcoreapp3.1\Module_1.deps.json
+E:\LapTrinhTrucQuan\BaiTap\Module_1\Module_1\bin\Debug\netcoreapp3.1\Module_1.runtimeconfig.json
+E:\LapTrinhTrucQuan\BaiTap\Module_1\Module_1\bin\Debug\netcoreapp3.1\Module_1.runtimeconfig.dev.json
+E:\LapTrinhTrucQuan\BaiTap\Module_1\Module_1\bin\Debug\netcoreapp3.1\Module_1.dll
+E:\LapTrinhTrucQuan\BaiTap\Module_1\Module_1\bin\Debug\netcoreapp3.1\Module_1.pdb
+E:\LapTrinhTrucQuan\BaiTap\Module_1\Module_1\obj\Debug\netcoreapp3.1\Module_1.dll
+E:\LapTrinhTrucQuan\BaiTap\Module_1\Module_1\obj\Debug\netcoreapp3.1\Module_1.pdb
