@@ -1,0 +1,14 @@
+E:\LapTrinhTrucQuan\BaiTap\Module _2\Module _2\bin\Debug\Module _2.exe.config
+E:\LapTrinhTrucQuan\BaiTap\Module _2\Module _2\bin\Debug\Module _2.exe
+E:\LapTrinhTrucQuan\BaiTap\Module _2\Module _2\bin\Debug\Module _2.pdb
+E:\LapTrinhTrucQuan\BaiTap\Module _2\Module _2\obj\Debug\Module _2.csprojAssemblyReference.cache
+E:\LapTrinhTrucQuan\BaiTap\Module _2\Module _2\obj\Debug\Module__2.Form1.resources
+E:\LapTrinhTrucQuan\BaiTap\Module _2\Module _2\obj\Debug\Module__2.Properties.Resources.resources
+E:\LapTrinhTrucQuan\BaiTap\Module _2\Module _2\obj\Debug\Module _2.csproj.GenerateResource.cache
+E:\LapTrinhTrucQuan\BaiTap\Module _2\Module _2\obj\Debug\Module _2.exe
+E:\LapTrinhTrucQuan\BaiTap\Module _2\Module _2\obj\Debug\Module _2.pdb
+E:\LapTrinhTrucQuan\BaiTap\Module _2\Module _2\obj\Debug\Module__2.AboutBox1.resources
+E:\LapTrinhTrucQuan\BaiTap\Module _2\Module _2\obj\Debug\Module__2.Bai21.resources
+E:\LapTrinhTrucQuan\BaiTap\Module _2\Module _2\obj\Debug\Module__2.Bai19.resources
+E:\LapTrinhTrucQuan\BaiTap\Module _2\Module _2\obj\Debug\Module__2.MDIParent1.resources
+E:\LapTrinhTrucQuan\BaiTap\Module _2\Module _2\obj\Debug\Module__2.Bai16.resources
